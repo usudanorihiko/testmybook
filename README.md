@@ -1,0 +1,2 @@
+# testmybook
+django test (japanese)
